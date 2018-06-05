@@ -4,8 +4,7 @@
   "homepage": "https://github.com/alirezarahmani/framework-forrina-web",
   "require": {
     "forrina/framework-forrina": "dev-master",
-    "forrina/framework-forrina-api": "dev-master",
-    "php-ffmpeg/php-ffmpeg": "^0.11.0"
+    "forrina/framework-forrina-api": "dev-master"
   },
   "autoload": {
     "psr-4": {"Forrina\\Framework\\Forrina\\Web\\": "src/"}
